@@ -1,0 +1,26 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+  overflow-x: hidden !important;
+  max-width: 100vw;
+
+}
+
+a {
+  color: #ed502e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f1775d;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
